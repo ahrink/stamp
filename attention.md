@@ -6,4 +6,6 @@ translates to counts the number of users accessing ahr-stamp where
 1. biosdate is interpreted as YYYYMMDDHHmmss, followed by
 2. a nine digit microsecond in decimal format
 
-.
+...
+Praevisio Installer is simulation implementing the ahr_stamp as a service for future projects:
+https://github.com/ahrink/Praevisio-Installer
