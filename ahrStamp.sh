@@ -19,12 +19,12 @@ void ahr_stamp() {
     struct timespec currentTime;
     clock_gettime(CLOCK_REALTIME, &currentTime);
 
-    // Increment the call counter
-    callCounter++;
-
     // Extract individual components of the timestamp
     struct tm timeInfo;
     localtime_r(&currentTime.tv_sec, &timeInfo);
+
+    // Increment the call counter
+    callCounter++;
 
     // Format and print the auto-generated timestamp
     printf("%09d:%04d%02d%02d%02d%02d%02d.%09ld\n",
