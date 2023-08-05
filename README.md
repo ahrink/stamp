@@ -51,3 +51,8 @@ Further consideration is a conclusion:
 
 San Anton 20230724 “a spark of truth cannot be lost” AHR said that!
 EnomPerm  0 or 1;
+
+- added 20230804
+# Praevisio Installer is simulation implementing the ahr_stamp as a service for future projects:
+# https://github.com/ahrink/Praevisio-Installer
+# simAHR.sh for simulation alone
