@@ -39,7 +39,7 @@ And compare a progression with regression:
 In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the 'outcome' or 'response' variable, or a 'label' in machine learning parlance) 
 
 First, regression analysis is widely used for prediction and forecasting, 
-while, Geometric progression, sequence of numbers such that the quotient of any two successive members of the sequence is a constant ... AHR: established here as a priority where regration may become a Geometric progression to solve a possible prediction!
+while, Geometric progression, sequence of numbers such that the quotient of any two successive members of the sequence is a constant ... AHR: established here as a priority where regression may become a Geometric progression to solve a possible prediction!
 
 AHR: [contextual approach in math as a formula]
 In science, a formula is a concise way of expressing information; - symbolically, as in a mathematical formula or a chemical formula. 
